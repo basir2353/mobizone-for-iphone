@@ -1,4 +1,4 @@
-﻿# MobiZone for iPhone
+# MobiZone for iPhone
 
 Safari-friendly React web app for MobiZone. Signs in against the same live API used by the Android APK and desktop apps:
 

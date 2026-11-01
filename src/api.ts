@@ -1,4 +1,4 @@
-﻿/** Live Desktop API (same as Android / desktop apps). */
+/** Live Desktop API (same as Android / desktop apps). */
 export const API_BASE =
   (import.meta.env.VITE_API_BASE_URL as string | undefined)?.trim() ||
   "https://backend-desktop-production-600b.up.railway.app";
